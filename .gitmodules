@@ -4,3 +4,9 @@
 [submodule "microservices/ems-moderationService"]
 	path = microservices/ems-moderationService
 	url = git@github.com:samueljff/ems-moderationService.git
+[submodule "microservices/moderationService"]
+	path = microservices/moderationService
+	url = git@github.com:samueljff/moderationService.git
+[submodule "microservices/commentService"]
+	path = microservices/commentService
+	url = git@github.com:samueljff/commentService.git
